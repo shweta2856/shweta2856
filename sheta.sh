@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello shweta"
+echo "hello nitin"
